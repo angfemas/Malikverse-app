@@ -2,6 +2,14 @@
 ©FEMAS-2024 v1.0.0  Malikverse IoT Mobile was developed for smart homes which will later be connected to ESP32 devices using API.
 
 
+# Table of content
+
+ 1.  [introduction](https://github.com/angfemas/Malikverse-app/blob/main/README.md#introduction)
+ 2.  [Philosophy](https://github.com/angfemas/Malikverse-app/blob/main/README.md#philosophy)
+ 3. [Purpose](https://github.com/angfemas/Malikverse-app/blob/main/README.md#purpose)
+ 4. [Aplication name and package](https://github.com/angfemas/Malikverse-app/blob/main/README.md#application-name-and-package)
+    
+
 ### introduction
 
 **Malikverse iot mobile** is a mobile application designed for the needs of a smart home, especially to simplify and digitize when using devices at home that have been set up and connected to this application, for example turning on and off the lights.
